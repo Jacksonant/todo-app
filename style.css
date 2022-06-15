@@ -1,0 +1,10 @@
+/* Completed Todo */
+[done] {
+    color: green;
+    text-decoration:line-through ;
+}
+
+/* Deleted Todo */
+.deleted__todo{
+    display: none;
+}
